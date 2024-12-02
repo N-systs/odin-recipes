@@ -1,0 +1,1 @@
+Hello, this is my first actual project I've ever done using coding and HTML. It is from The Odin Project and it is a basic recipe web page. I only know HTML so it will most likely be a pretty ugly project. 
